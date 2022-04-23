@@ -26,8 +26,8 @@ Spatial domain filtering simply indicates that the filtering process takes place
 
 ## Screenshots
 
-![Image Filtering](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Video Filtering Filtering](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Image Filtering](https://github.com/delaramhamraz73/Image-Video-processing/blob/main/Screenshots/Image%20Filters.gif)
+![Video Filtering Filtering](https://github.com/delaramhamraz73/Image-Video-processing/blob/main/Screenshots/Video%20Filter.gif)
 
 
 ## Libraries 
